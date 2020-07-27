@@ -115,7 +115,7 @@ public class ResourceCentreTest {
 	public void doReturnCamcorderTest() {
 		//fail("Not yet implemented");
 		// write your code here
-		assertNotNull("Test if there is valid CamorderList arraylist to",camcorderList);
+		assertNotNull("Test if there is valid CamcorderList arraylist to",camcorderList);
 		ResourceCentre.addCamcorder(camcorderList, cc1);
 		
 		//Error Occurs
